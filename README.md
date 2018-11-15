@@ -1,2 +1,2 @@
-# robofriends-ci
-Continuous Integration for robofriends app
+# RobotsAreFun-ci
+Continuous Integration for RobotsAreFun Web App
